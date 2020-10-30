@@ -1,10 +1,10 @@
 ###
 **Clone Twitter**
 #
-Essa é uma aplicação responsiva em Reactjs, usando TypeScript e Styled Components, feita a partir da aula da RocketSeat, disponível em: https://www.youtube.com/watch?v=K-8z_4xvT3o, com intuito de aprender mais sobre as tecnologias usadas.
+This is a responsive application in Reactjs, using TypeScript and Styled Components, made from the RocketSeat class, available at: https://www.youtube.com/watch?v=K-8z_4xvT3o, in order to learn more about the technologies used.
 
-Você pode visualizar e testar a aplicação nesse link: https://clone-twitter-reactjs.netlify.app/
+You can view and test the application at this link: https://clone-twitter-reactjs.netlify.app/
 
 ###
 
-Feito por Thayná Luiza Gitirana.
+Made by Thayná Luiza Gitirana.
